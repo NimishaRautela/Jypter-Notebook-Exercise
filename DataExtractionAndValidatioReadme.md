@@ -2,4 +2,4 @@
 
 This project uses IBM Watson.
 
-You can access the IBM Watson resource [here](https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-dc14633cdced674ba99df0ef610cb50132a2e27c)
+You can access the IBM Watson resource [here](https://jupyterlab-2-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/hub/user-redirect/lab/tree/labs/project/Final%20Assignment.ipynb)
